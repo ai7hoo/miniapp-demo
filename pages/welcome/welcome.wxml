@@ -1,0 +1,8 @@
+<!-- wxml是骨架文件 -->
+<view>
+    <image src="/images/avatar.jpg"></image>
+    <text>Hello, Quinn</text>
+    <view>
+        <text>开启小程序之旅</text>
+    </view>
+</view>
