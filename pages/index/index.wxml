@@ -1,0 +1,4 @@
+<view class="container">
+  <view class="search">s</view>
+  <view class="select-date">d</view>
+</view>

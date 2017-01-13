@@ -1,5 +1,24 @@
 {
   "pages":[
-    "pages/welcome/welcome"
-  ]
+    "pages/index/index",
+    "pages/hotel-list/hotel-list",
+    "pages/hotel-detail/hotel-detail",
+    "pages/write-order/write-order",
+    "pages/payment/payment",
+    "pages/payment-success/payment-success",
+    "pages/my-account/my-account",
+    "pages/my-order/my-order",
+    "pages/order-details/order-details"
+  ],
+  "window": {
+    "navigationBarTitleText": "AA旅行"
+  },
+  "tabBar": {
+    "list": [{
+        "pagePath": "pages/index/index",
+        "text": "订房"
+    },{
+        "pagePath": "pages/my-account/my-account"
+    }]
+  }
 }
